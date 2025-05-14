@@ -2,5 +2,7 @@ public class Main {
     public static void main(String[] args) {
         FizzBuzz.doFizzBuzz(15);
         FizzBuzz.main(args);
+        Weaintmissedthemill = 1000000;
+        Seeeyyaaaa = "SYEAAAAAA";
     }
 }
